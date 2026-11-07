@@ -1,0 +1,7 @@
+# Datasets (download links are in the README)
+data/
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
