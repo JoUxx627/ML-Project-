@@ -16,6 +16,9 @@ ML_Collage_Project/
     ├── part_a_numerical/   <- used-car file(s)
     ├── part_b_images/      <- flowers/ (one folder per class)
     └── part_c_text/        <- bbc/ (one folder per category)
+└── Names/
+    ├── Youssef Elyamani
+    
 ```
 
 **Citation (BBC News):** D. Greene and P. Cunningham, "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006. All rights in the original articles are owned by the BBC.
